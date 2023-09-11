@@ -16,6 +16,10 @@ Attached in the repository
 • How does the % salary hike play a crucial role in the increase in attrition of the employee?
 • Does a highly experienced person responsible for leaving the company?
 
+# Analyzed using Power BI Dashboard:
+![powerbi1](https://github.com/GeetanjaliWadhwa/PowerBI/assets/86543214/5700f642-c7b9-469e-abca-1d43475850ea)
+![powerbi2](https://github.com/GeetanjaliWadhwa/PowerBI/assets/86543214/d121637a-9cf2-4261-a302-25cf76983fc1)
+
 # General Insight:
 •Out of the 1200 employees, 178 of them going to leave INX Future Inc data analytics company (indicating a 15% attrition rate).
 
